@@ -1,0 +1,10 @@
+[
+  {
+    "name": "MiExtensión",
+    "url": "https://raw.githubusercontent.com/TU_USUARIO/cloudstream-repo/main/extensions/MiExtension.cs3",
+    "version": 1,
+    "language": "es",
+    "description": "Ejemplo de extensión",
+    "status": 1
+  }
+]
