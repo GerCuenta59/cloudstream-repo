@@ -1,0 +1,8 @@
+{
+  "name": "Mi Repo CloudStream",
+  "description": "Repositorio de extensiones para CloudStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://TU_USUARIO.github.io/cloudstream-repo/extensions.json"
+  ]
+}
